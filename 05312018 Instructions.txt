@@ -1,0 +1,17 @@
+Instructions to create a Redhat VM
+
+Go to Cloud.google.com
+Log in with personal account
+Select a project  / New Project
+VM Instances
+Create an instance
+Change Name, Zone,
+Change
+Red Hat Enterprise Linux 7
+15 GB
+Select 1 vCPU, 3.75 GB memory
+On Identify and API access, select Compute Engine default service account / Allow default access
+Firewall: Mark Allow HTTP traffic
+Press Create
+Identify IP Address: Asi se deja
+Detener la maquina virtual
